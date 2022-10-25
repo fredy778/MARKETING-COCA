@@ -1,0 +1,449 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Coca-cola vidrio retornable 190 ml 24pack",
+            "price": 32,
+            "image": "image/coca1.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 2,
+            "title": "Coca-cola vidrio retornable 600 ml",
+            "price": 2,
+            "image": "image/coca2.png",
+            "category": "GAESEOSA"
+        },
+        {
+            "id": 3,
+            "title": "Coca-cola retornable 2 lt",
+            "price": 7,
+            "image": "image/coca3.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 4,
+            "title": "Fanta limon retornable 2,5 lt",
+            "price": 9,
+            "image": "image/coca4.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 5,
+            "title": "Fanta naranja vidrio retornable 190 ml 24pack",
+            "price": 32,
+            "image": "image/coca5.png",
+            "category": "GAESEOSA"
+
+        },
+        {
+            "id": 6,
+            "title": "Fanta naranja vidrio retornable 600 ml",
+            "price": 2,
+            "image": "image/coca6.png",
+            "category": "GASEOSA"
+
+        },
+        {
+            "id": 7,
+            "title": "Fanta naranja retornable 2 lt",
+            "price": 7,
+            "image": "image/coca7.png",
+            "category": "GAESEOSA"
+        },
+        {
+            "id": 8,
+            "title": "Fanta naranja retornable 2,5 lt",
+            "price": 9,
+            "image": "image/coca8.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 9,
+            "title": "Sprite vidrio retornable 600 ml",
+            "price": 2,
+            "image": "image/coca9.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 10,
+            "title": "Sprite retornable 2 lt",
+            "price": 7,
+            "image": "image/coca10.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 11,
+            "title": "Sprite retornable 2,5 lt",
+            "price": 9,
+            "image": "image/coca11.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 12,
+            "title": "Del valle néctar manzana 200 ml 6pack",
+            "price": 12,
+            "image": "image/coca12.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 13,
+            "title": "Del valle néctar durazno 200 ml 6pack",
+            "price": 13,
+            "image": "image/coca13.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 14,
+            "title": "Ades manzana 200 ml 6pack",
+            "price": 17,
+            "image": "image/coca14.png",
+            "category": "BEBIDAS VEGETALES"
+        },
+        {
+            "id": 15,
+            "title": "Ades manzana 1 lt",
+            "price": 9,
+            "image": "image/coca15.png",
+            "category": "BEBIDAS VEGETALES"
+        },
+        {
+            "id": 16,
+            "title": "Ades durazno 200 ml 6pack",
+            "price": 17,
+            "image": "image/coca16.png",
+            "category": "BEBIDAS VEGETALES"
+        },
+        {
+            "id": 17,
+            "title": "Ades durazno 1 lt",
+            "price": 9,
+            "image": "image/coca17.png",
+            "category": "BEBIDAS VEGETALES"
+
+        },
+        {
+            "id": 18,
+            "title": "Ades almendras con vainilla 1 lt",
+            "price": 29,
+            "image": "image/coca18.png",
+            "category": "BEBIDAS VEGETALES"
+
+        },
+        {
+            "id": 19,
+            "title": "Monster 473ml",
+            "price": 14,
+            "image": "image/coca19.png",
+            "category": "ENERGISANTE"
+        },
+        {
+            "id": 20,
+            "title": "Monster ultra 473ml",
+            "price": 14,
+            "image": "image/coca21.png",
+            "category": "ENERGISANTE"
+        },
+        {
+            "id": 21,
+            "title": "Coca-cola 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca22.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 22,
+            "title": "Coca-cola 2 lt 10pack",
+            "price": 90,
+            "image": "image/coca23.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 23,
+            "title": "Coca-cola 2 lt 3pack + coca-cola sin azúcar 2 lt 3pack",
+            "price": 51,
+            "image": "image/coca24.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 24,
+            "title": "Coca-cola 2 lt + schweppes agua tónica 990 ml 2pack + schweppes ginger ale 990 ml 2pack",
+            "price": 32,
+            "image": "image/coca25.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 25,
+            "title": "Coca-cola 3 lt 6pack",
+            "price": 78,
+            "image": "image/coca26.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 26,
+            "title": "Coca-cola 500 ml 6pack",
+            "price": 25,
+            "image": "image/coca27.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 27,
+            "title": "Coca-cola sin azúcar 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca28.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 28,
+            "title": "Coca-cola sin azúcar 2 lt + sprite sin azúcar 2 lt",
+            "price": 9,
+            "image": "image/coca29.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 29,
+            "title": "Coca-cola sin azúcar 3 lt 6pack",
+            "price": 61,
+            "image": "image/coca30.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 30,
+            "title": "Fanta naranja 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca31.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 31,
+            "title": "Fanta misterio 500 ml 3pack + fanta naranja 500 ml 3pack",
+            "price": 25,
+            "image": "image/coca32.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 32,
+            "title": "Fanta naranja 500 ml + fanta guaraná 500 ml + fanta mandarina 500 ml + fanta papaya 500 ml + fanta limón 500 ml + fanta misterio 500 ml",
+            "price": 25,
+            "image": "image/coca33.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 33,
+            "title": "Fanta naranja 500 ml + fanta limón 500ml + fanta papaya 500 ml",
+            "price": 12,
+            "image": "image/coca34.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 34,
+            "title": "Fanta naranja 3lt + fanta limón 3lt + fanta papaya 3lt",
+            "price": 39,
+            "image": "image/coca35.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 35,
+            "title": "Sprite 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca36.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 36,
+            "title": "Sprite 500 ml 3pack",
+            "price": 12,
+            "image": "image/coca37.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 37,
+            "title": "Sprite 2 lt 6pack",
+            "price": 54,
+            "image": "image/coca38.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 38,
+            "title": "Sprite 2 lt + sprite sin azúcar 2 lt",
+            "price": 16,
+            "image": "image/coca39.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 39,
+            "title": "Vital sin gas 350 ml 6pack",
+            "price": 15,
+            "image": "image/coca40.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 40,
+            "title": "Vital sin gas 600 ml 12pack",
+            "price": 40,
+            "image": "image/coca41.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 41,
+            "title": "Vital sin gas 2lt 6pack",
+            "price": 33,
+            "image": "image/coca42.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 42,
+            "title": "Vital sin gas 3 lt 6pack",
+            "price": 39,
+            "image": "image/coca43.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 43,
+            "title": "Vital con gas 600 ml 12pack",
+            "price": 40,
+            "image": "image/coca44.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 44,
+            "title": "Vital con gas 2 lt 6pack",
+            "price": 33,
+            "image": "image/coca45.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 45,
+            "title": "Schweppes ginger ale 990 ml 3pack",
+            "price": 18,
+            "image": "image/coca46.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 46,
+            "title": "Schweppes ginger ale 990 ml 6pack",
+            "price": 35,
+            "image": "image/coca47.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 47,
+            "title": "Schweppes agua tónica 990 ml 3pack",
+            "price": 18,
+            "image": "image/coca48.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 48,
+            "title": "Schweppes agua tónica 990 ml 6pack",
+            "price": 35,
+            "image": "image/coca49.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 49,
+            "title": "Schweppes agua tónica 990 ml + schweppes ginger ale 990 ml",
+            "price": 12,
+            "image": "image/coca50.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 50,
+            "title": "Schweppes agua tónica 990 ml 3pack + schweppes ginger ale 990 ml 3pack",
+            "price": 35,
+            "image": "image/coca51.png",
+            "category": "GASEOSA"
+        },
+        {
+            "id": 51,
+            "title": "Aquarius pera 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca52.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 52,
+            "title": "Aquarius pomelo 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca53.png",
+            "category": "AGUAS"
+        },
+        {
+            "id": 53,
+            "title": "Del valle néctar durazno 2 lt 3pack",
+            "price": 36,
+            "image": "image/coca54.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 54,
+            "title": "Del valle néctar manzana 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca55.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 55,
+            "title": "Del valle néctar manzana 2 lt 3pack",
+            "price": 36,
+            "image": "image/coca56.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 56,
+            "title": "Del valle néctar manzana 3 lt + del valle néctar durazno 3 lt",
+            "price": 27,
+            "image": "image/coca57.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 57,
+            "title": "Del valle fresh fruit punch 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca58.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 58,
+            "title": "Del valle fresh citrus 300 ml 6pack",
+            "price": 15,
+            "image": "image/coca59.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 59,
+            "title": "Del valle fresh fruit punch 3 lt + del valle fresh citrus 3 lt",
+            "price": 24,
+            "image": "image/coca60.png",
+            "category": "JUGO"
+        },
+        {
+            "id": 60,
+            "title": "Powerade multifruta 990 ml 6pack",
+            "price": 51,
+            "image": "image/coca61.png",
+            "category": "ISOTONICA"
+        },
+        {
+            "id": 61,
+            "title": "Powerade multifruta 990 ml 6pack",
+            "price": 51,
+            "image": "image/coca62.png",
+            "category": "ISOTONICA"
+        },
+        {
+            "id": 62,
+            "title": "Powerade mora azul 990 ml 6pack",
+            "price": 51,
+            "image": "image/coca63.png",
+            "category": "ISOTONICA"
+        },
+        {
+            "id": 63,
+            "title": "Powerade multifruta 990 ml + powerade mora azul 990 ml",
+            "price": 17,
+            "image": "image/coca64.png",
+            "category": "ISOTONICA"
+        }
+    ]
+}
